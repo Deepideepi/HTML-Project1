@@ -20,8 +20,13 @@ Clean and structured layout
 Cross-browser compatible
 
 🔮 Future Enhancements
-
 Add JavaScript validation
 Connect with backend (PHP / Python / Node.js)
 Add password visibility toggle
 Improve UI animations
+
+
+SAMPLE OUTPUT:
+![html login page](https://github.com/user-attachments/assets/9b80372f-121c-447b-b334-f5453646918a)
+![html reg page](https://github.com/user-attachments/assets/dda8fa11-01dd-4b76-b7f6-d898bc0eeda2)
+
